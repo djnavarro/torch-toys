@@ -5,4 +5,4 @@
 .DS_Store
 torch-datasets
 image-seg/pet-segmentation-fitted.rds
-image-seg/pet-segmentation-fitted.png
+image-seg/pet-segmentation.png
